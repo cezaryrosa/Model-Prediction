@@ -3,10 +3,6 @@
 
 # # Modeling problem report - Banking Marketing Data
 
-# Statistical Learning Methods, under the care of Łukasz Kraiński, MSc
-
-# Cezary Rosa, student ID: 54108
-
 # ## 1. Introduction
 
 # ### 1.1 Abstract
